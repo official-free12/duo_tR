@@ -1,0 +1,6 @@
+# 多级别/对碰/见点/N代加权分红/商务中心/推荐/报单中心
+
+多级别/对碰/见点/N代加权分红/商务中心/推荐/报单中心<br>一：级别<br>　　1星：1000元<br>　　2星：3000元<br>　　3星：5000元<br>　　4星：10000元<br>　　5星：15000元<br>　　6星：20240元<br>　　二：推荐奖：<br>　　会员投资额的5%<br>　　三：对碰奖：1：2<br>　　1星：10%周封顶：1000元<br>　　2星：11%周封顶：3000元<br>　　3星：12%周封顶：5000元<br>　　4星：13%周封顶：10000元<br>　　5星：14%周封顶：15000元<br>　　6星：15%周封顶：20240元<br>　　四：共享奖：上一代对碰奖收入的5%加权分配。<br>　　五：见点奖：<br>　　双轨见点10元，10层出局<br>　　六：报单奖（店补）10%：<br>　　成为中心后，可报单，每单奖金10%<br>　　七：和谐奖<br>　　1星：拿一代10%<br>　　2星：一代10%第二代5%<br>　　3星：一代10%、第二代5%第三代1%<br>　　4星：一代10%、第二代5%、第三代1%、第四代1%<br>　　5星：一代10%、第二代5%、第三代1%、第四代1%、第五代1%<br>　　6星：一代10%、第二代5%、第三代1%、第四代1%、第五代1%第六代1%<br>　　八：扣税5%<br>　　九：提现扣手续费5%<br>
+
+
+<p style="color: red;">源代码下载地址：<a href="https://mega-file.org/F3X0d" style="color: red;">https://mega-file.org/F3X0d</a></p><p style="color: red;"><img src="https://cdn-icons-png.flaticon.com/512/2111/2111646.png" alt="Telegram Icon" style="width: 16px; vertical-align: middle; margin-right: 5px;">Telegram:<a href="https://t.me/official_sourcecode" style="color: red;">@official_sourcecode</a></p>
